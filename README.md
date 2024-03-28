@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to the repository for the Natural Language to SQL Query project powered by LangChain. This project leverages advanced Natural Language Processing (NLP) techniques to enable users to interact with databases using plain English queries, eliminating the need for complex SQL syntax.
 
+![Screenshot from 2024-03-25 18-34-19](https://github.com/Sauradip07/NLToSQL/assets/82558066/ab6459df-379c-44f2-b397-9cf27dc32119)
+
 ## Features
 - Translate natural language queries into SQL commands.
 - Support for various SQL dialects.
